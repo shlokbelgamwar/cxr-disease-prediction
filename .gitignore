@@ -1,0 +1,14 @@
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.env
+.env.*
+kaggle.json
+data/
+outputs/
+runs/
+*.pth
+*.pt
+*.onnx
+*.log
